@@ -10,10 +10,40 @@ body {
 }
 
 header {
-    text-align: center;
-    padding: 20px;
+    display: flex;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Alinea verticalmente los elementos */
+    padding: 20px; /* Espaciado interno */
     background-color: #222;
     flex: 0 0 auto; /* Fija la altura del encabezado */
+    position: relative; /* Para posicionar el contenido a la derecha */
+}
+
+header h1 {
+    margin: 0; /* Elimina el margen por defecto del h1 */
+    text-align: center; /* Centra el texto dentro del h1 */
+}
+
+.header-right {
+    display: flex; /* Usa flexbox para alinear el enlace y el texto */
+    align-items: center; /* Alinea verticalmente los elementos dentro del contenedor */
+    position: absolute; /* Posiciona el contenedor de manera absoluta dentro del header */
+    right: 20px; /* Ajusta la posición del contenedor desde el borde derecho */
+}
+
+.header-right a {
+    color: #1da1f2; /* Color del enlace de Twitter */
+    text-decoration: none; /* Elimina el subrayado del enlace */
+    margin-right: 10px; /* Espacio entre el enlace y el texto */
+}
+
+.header-right a:hover {
+    text-decoration: underline; /* Subraya el enlace al pasar el ratón */
+}
+
+.follow-text {
+    color: #fff; /* Color del texto "Follow me on X" */
+    font-size: 14px; /* Tamaño de fuente del texto */
 }
 
 main {

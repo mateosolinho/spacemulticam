@@ -1,13 +1,16 @@
-const videoUrls = [
-    "https://www.youtube.com/embed/FTw5xuq2swo?si=FEoxfsIpCQhmr4cu",
-    "https://www.youtube.com/embed/Rg7kw-KLDL8?si=pABas8Bi4sqLuQnP",
-    "https://www.youtube.com/embed/uH1W01t_lGc?si=chERPVJtLTdUGf-Q",
-    "https://www.youtube.com/embed/Mu-dvOOnaOw?si=nckTPbwD4RLvVVqF",
-    "https://www.youtube.com/embed/c212qMUTnEs?si=_bkJR78bOx2cX9FX",
-    "https://www.youtube.com/embed/uH1W01t_lGc?si=4UxhxVaKVJpspE1_",
-    "https://www.youtube.com/embed/RsIG9WF-B4s?si=ETIOowfqVKEUaDBX",
-    "https://www.youtube.com/embed/qw3uaLRrYNY?si=0epRebxN6olWaEP9",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
+const videoUrls = [ 
+    "https://www.youtube.com/embed/mhJRzQsLZGg?si=8BPKYoEe7C7L_jYX",
+    "https://www.youtube.com/embed/cOmmvhDQ2HM?si=sxVgPt6NgoFhO_78",
+    "https://www.youtube.com/embed/Jm8wRjD3xVA?si=Pdu_UE9vCTLT6Weq",
+    "https://www.youtube.com/embed/c212qMUTnEs?si=Ny45gTYrlJUn7PYw",
+    "https://www.youtube.com/embed/uH1W01t_lGc?si=8vw_TLcuj2ojPLyn",
+    "https://www.youtube.com/embed/RsIG9WF-B4s?si=dxcCrThD29IG0faG",
+    "https://www.youtube.com/embed/qw3uaLRrYNY?si=LO7Aj-vkxprk2Wxk",
+    "https://www.youtube.com/embed/OWCh3wmKtak?si=-kNVydJhfVFLSw5P",
+    "https://www.youtube.com/embed/Rg7kw-KLDL8?si=feM0Z4RSwj1tWsig",
+    "https://www.youtube.com/embed/IQV0DlS1Ew0?si=mHa3ojQzZIC3LPP0",
+    "https://www.youtube.com/embed/tS2PHJmvJzo?si=iQ6LSnNTii6xvG7C",
+    "https://www.youtube.com/embed/FTw5xuq2swo?si=74Iod0bXsfevK9JC",
     // Agrega más URLs según se necesite
 ];
 
