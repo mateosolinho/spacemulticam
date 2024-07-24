@@ -8,18 +8,7 @@ const videoUrls = [
     "https://www.youtube.com/embed/RsIG9WF-B4s?si=ETIOowfqVKEUaDBX",
     "https://www.youtube.com/embed/qw3uaLRrYNY?si=0epRebxN6olWaEP9",
     "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    "https://www.youtube.com/embed/OWCh3wmKtak?si=t3fjjjb8e5cE90Gv",
-    // Agrega más URLs según necesites
+    // Agrega más URLs según se necesite
 ];
 
 function createIframes(videoUrls) {
