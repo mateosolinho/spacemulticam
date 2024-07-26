@@ -1,4 +1,4 @@
-# Multi Space Cam
+# Space Multicam
 
 Very simple project using vanilla javascript to simultaneously play the most important and outstanding live shows about areas with relevance in the spatial field
 
