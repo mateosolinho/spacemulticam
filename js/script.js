@@ -54,4 +54,23 @@ document.addEventListener("DOMContentLoaded", function() {
 
     videoGrid.style.gridTemplateColumns = `repeat(${numCols}, 1fr)`;
     videoGrid.style.gridTemplateRows = `repeat(${numRows}, 1fr)`;
+
+    // Modal functionality
+    const modal = document.getElementById("infoModal");
+    const btn = document.querySelector(".info-btn");
+    const span = document.querySelector(".close-btn");
+
+    btn.onclick = function() {
+        modal.style.display = "flex";
+    };
+
+    span.onclick = function() {
+        modal.style.display = "none";
+    };
+
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    };
 });
