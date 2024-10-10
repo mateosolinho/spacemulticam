@@ -26,6 +26,9 @@ const cameraConfigs = {
     "https://www.youtube.com/embed/E1uVzfQG_Yo?si=BwgeZKJIlsyaeM05", // Launch Pad Starbase SFNow
     "https://www.youtube.com/embed/EiKm0TgbVdg?si=jz4qITWOJ6jlW8Ux", // Plex View LabPadre
     
+    // Cambiar
+    "https://www.youtube.com/embed/cOmmvhDQ2HM?si=sxVgPt6NgoFhO_78", // McGregor NSF
+
     // No funcionan
     // "https://www.youtube.com/embed/9b7Nh0iTGT4?si=8ksQYk0QWWRw4P3G", // Starbase Live Rocket Ranch
   ],
