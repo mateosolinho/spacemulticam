@@ -15,11 +15,11 @@ const cameraConfigs = {
   // ],
   config1: [
     "https://www.youtube.com/embed/mhJRzQsLZGg?si=8BPKYoEe7C7L_jYX", // Starbase NSF
-    "https://www.youtube.com/embed/tFA8jo0Ejf8?si=LwYEzorIuGzV7YIz", // Nerdle Cam Starbase LabPadre
+    "https://www.youtube.com/embed/vd4uGm1_xt0?si=Hnr1Z-fZDhEjKg5a", // Nerdle Cam Starbase LabPadre
     "https://www.youtube.com/embed/qw3uaLRrYNY?si=LO7Aj-vkxprk2Wxk", // Rocket Ranch Cam Starbase LabPadre
     "https://www.youtube.com/embed/lDdHE8XkU34?si=4gKlmvQr2Gdc2ZE3", // Starbase The Launch Pad
-    "https://www.youtube.com/embed/hAQ0rWK5j-U?si=DjoAkRN9UecadwO",  // Plex Cam Starbase LabPadre
-    "https://www.youtube.com/embed/DpCNkxtZT30?si=cLYpC-F0GM7SxhBA", // Rover Cam Labpadre
+    "https://www.youtube.com/embed/ATP6_fFLFp0?si=oFtmBVMK_52PHnmo",  // Plex Cam Starbase LabPadre
+    "https://www.youtube.com/embed/jy4uGOu7N4g?si=w0D_VBNiGBD_igTX", // Rover Cam Labpadre
     "https://www.youtube.com/embed/IQV0DlS1Ew0?si=mHa3ojQzZIC3LPP0", // Sentinel Cam Starbase LabPadre
     "https://www.youtube.com/embed/tS2PHJmvJzo?si=iQ6LSnNTii6xvG7C", // Rover 2.0 Cam Starbase LabPadre
     "https://www.youtube.com/embed/U3ERnA7MJuI?si=epu1AzNlF7JMoYSM", // SpaceX Starbase What abaout it?
